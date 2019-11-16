@@ -13,3 +13,5 @@
 6. bridge pattern(桥接模式)
 
 ### **Behavioral Design Patterns(行为型)**
+1. command pattern(命令模式)
+1. chain of responsibility pattern(职责链模式)
