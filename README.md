@@ -14,4 +14,5 @@
 
 ### **Behavioral Design Patterns(行为型)**
 1. command pattern(命令模式)
-1. chain of responsibility pattern(职责链模式)
+2. chain of responsibility pattern(职责链模式)
+3. observer pattern(观察者模式)
